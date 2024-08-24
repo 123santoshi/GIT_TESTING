@@ -1,1 +1,2 @@
-print("arimstrong")
+n=123
+print(n)
